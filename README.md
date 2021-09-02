@@ -1,5 +1,5 @@
 # Formulário de login com animação ✨
-App link: https://formloginanimated.netlify.app/
+🔗 https://formloginanimated.netlify.app/
 ____________________________________________________
 ### 📝 Descrição
 
